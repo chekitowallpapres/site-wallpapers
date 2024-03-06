@@ -1,0 +1,30 @@
+.menu{
+	padding:0;
+	}
+	.menu li
+	{
+		display: inline;
+		}
+		.menu li a
+		{
+			font-family: time new roman;
+			font-size: 11px;
+			text-decoration: none;
+			float: left;
+			padding: 10px;
+			background-color: #2175bc;
+			color: #fff;
+			.menu li a:hover
+			{
+				background-color: red;
+				margin-top: -2;
+				padding-bottom: 12px;
+				}
+				body, html
+				{
+				 background-image: url(./Codigos Basicos De HTML/Scarface.jpg);
+                 background-repeat: no-repeat;
+                 background-attachment: fxed;
+                 background-position: center center;
+                 background-size: cover;
+                 }
